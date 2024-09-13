@@ -1,0 +1,508 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ForAllKerbalkind",
+    "name": "ForAllKerbalkind",
+    "abstract": "We came in peace for all Kerbalkind!",
+    "author": "The Beardy Penguin",
+    "version": "1.4",
+    "ksp_version_min": "1.12.3",
+    "ksp_version_max": "1.12.5",
+    "license": "MIT",
+    "depends": [
+        {
+            "name": "AdvancedJetEngine",
+            "version": "v2.20.0"
+        },
+        {
+            "name": "AtmosphereAutopilot",
+            "version": "v1.6.1"
+        },
+        {
+            "name": "AviationLights",
+            "version": "1:v4.2.1.1"
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "version": "3:0.46.0"
+        },
+        {
+            "name": "B9PartSwitch",
+            "version": "v2.20.0"
+        },
+        {
+            "name": "BDAnimationModules",
+            "version": "1:v0.6.7.1"
+        },
+        {
+            "name": "Benjee10Suits",
+            "version": "v1.1.0"
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "version": "2.3.13"
+        },
+        {
+            "name": "BonVoyage",
+            "version": "1:1.4.1"
+        },
+        {
+            "name": "BuranEnergia",
+            "version": "2.1"
+        },
+        {
+            "name": "CameraTools",
+            "version": "v1.35.0"
+        },
+        {
+            "name": "ClickThroughBlocker",
+            "version": "1:2.1.10.21"
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "version": "v112.0.1"
+        },
+        {
+            "name": "CommunityResourcePack",
+            "version": "v112.0.1"
+        },
+        {
+            "name": "ConformalDecals",
+            "version": "0.2.14"
+        },
+        {
+            "name": "ContractConfigurator",
+            "version": "v2.11.0.0"
+        },
+        {
+            "name": "CustomBarnKit",
+            "version": "1.1.22.0"
+        },
+        {
+            "name": "CustomPreLaunchChecks",
+            "version": "1.8.1.1"
+        },
+        {
+            "name": "Deferred",
+            "version": "1.2.3.0"
+        },
+        {
+            "name": "DepthMask",
+            "version": "1.1.3"
+        },
+        {
+            "name": "DistantObject",
+            "version": "v2.2.0.2"
+        },
+        {
+            "name": "DistantObject-default",
+            "version": "v2.2.0.2"
+        },
+        {
+            "name": "DockingFunctions",
+            "version": "v1.0.4"
+        },
+        {
+            "name": "DynamicBatteryStorage",
+            "version": "2:2.3.3.0"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.7.2"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued",
+            "version": "3:0.16.1.2"
+        },
+        {
+            "name": "FirespitterCore",
+            "version": "v7.17"
+        },
+        {
+            "name": "FirespitterResourcesConfig",
+            "version": "v7.17"
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "version": "3.6.0.2"
+        },
+        {
+            "name": "Harmony2",
+            "version": "2.2.1.0"
+        },
+        {
+            "name": "HullcamVDSContinued",
+            "version": "0.2.2.1"
+        },
+        {
+            "name": "ImprovedUpdatedChaseCam",
+            "version": "1.6.4.3"
+        },
+        {
+            "name": "InfernalRoboticsNext",
+            "version": "v3.1.17"
+        },
+        {
+            "name": "InternalRCS",
+            "version": "1.3"
+        },
+        {
+            "name": "IR-ConnectionSystem",
+            "version": "v1.0.5"
+        },
+        {
+            "name": "JanitorsCloset",
+            "version": "0.3.8"
+        },
+        {
+            "name": "KAS",
+            "version": "1.12"
+        },
+        {
+            "name": "KerbalAlarmClock",
+            "version": "v3.14.0.0"
+        },
+        {
+            "name": "KerbalChangelog",
+            "version": "v1.4.2"
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "version": "1.1.9.5"
+        },
+        {
+            "name": "KerbalFoundriesContinued",
+            "version": "2.4.8.18"
+        },
+        {
+            "name": "Kerbalism",
+            "version": "3.19"
+        },
+        {
+            "name": "Kerbalism-Config-RO",
+            "version": "v1.2.19.0"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "version": "v3.7.5.0"
+        },
+        {
+            "name": "KerbalKonstructs",
+            "version": "v1.8.7.0"
+        },
+        {
+            "name": "KerbalRenamer",
+            "version": "v1.7.0.0"
+        },
+        {
+            "name": "KIS",
+            "version": "1.29"
+        },
+        {
+            "name": "Knes",
+            "version": "v1.9.9"
+        },
+        {
+            "name": "Kopernicus",
+            "version": "2:release-1.12.1-214"
+        },
+        {
+            "name": "Kosmodrome",
+            "version": "v1.01"
+        },
+        {
+            "name": "KSCPlusPlus",
+            "version": "1:4.1"
+        },
+        {
+            "name": "KSCSwitcher",
+            "version": "v2.2.0.0"
+        },
+        {
+            "name": "KSPBurst",
+            "version": "v1.5.5.1"
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "version": "1.35.2"
+        },
+        {
+            "name": "KSPWheel",
+            "version": "1:0.16.14.33"
+        },
+        {
+            "name": "MagiCore",
+            "version": "1.4.0.0"
+        },
+        {
+            "name": "MechJeb2",
+            "version": "2.14.3.0"
+        },
+        {
+            "name": "ModularFlightIntegrator",
+            "version": "1.2.10.0"
+        },
+        {
+            "name": "ModularLaunchPads",
+            "version": "2.6.1"
+        },
+        {
+            "name": "ModuleManager",
+            "version": "4.2.3"
+        },
+        {
+            "name": "NearFutureElectrical",
+            "version": "1.2.3"
+        },
+        {
+            "name": "NearFutureElectrical-Core",
+            "version": "1.2.3"
+        },
+        {
+            "name": "NearFutureProps",
+            "version": "1:0.7.2"
+        },
+        {
+            "name": "OinkersSkybox",
+            "version": "2.0_brighter"
+        },
+        {
+            "name": "ParkingBrake",
+            "version": "0.4.4"
+        },
+        {
+            "name": "PatchManager",
+            "version": "0.0.17.6"
+        },
+        {
+            "name": "PreciseManeuver",
+            "version": "2:2.4.99.0-adoption"
+        },
+        {
+            "name": "ProceduralFairings",
+            "version": "1:v6.6.2.0"
+        },
+        {
+            "name": "ProceduralParts",
+            "version": "v2.5.9.0"
+        },
+        {
+            "name": "RCSBuildAid",
+            "version": "v1.0.6"
+        },
+        {
+            "name": "RealAntennas",
+            "version": "v2.3.1"
+        },
+        {
+            "name": "RealChute",
+            "version": "v1.4.9.4"
+        },
+        {
+            "name": "RealChuteForStock",
+            "version": "v1.4.9.4"
+        },
+        {
+            "name": "RealFuels",
+            "version": "1:v15.9.0.0"
+        },
+        {
+            "name": "RealFuelsISRU",
+            "version": "1"
+        },
+        {
+            "name": "RealHeat",
+            "version": "v5.1"
+        },
+        {
+            "name": "RealismOverhaul",
+            "version": "v17.11.0.0"
+        },
+        {
+            "name": "RealPlume",
+            "version": "2:v13.3.2"
+        },
+        {
+            "name": "RealScaleBoosters",
+            "version": "0.16"
+        },
+        {
+            "name": "RealSolarSystem",
+            "version": "v20.1.3.0"
+        },
+        {
+            "name": "ReStock",
+            "version": "1.5.0"
+        },
+        {
+            "name": "RetractableLiftingSurface",
+            "version": "0.2.1.2"
+        },
+        {
+            "name": "RN-SalyutStations",
+            "version": "1:v3.6"
+        },
+        {
+            "name": "RN-SovietSpacecraft",
+            "version": "1:v1.8.8"
+        },
+        {
+            "name": "ROCapsules",
+            "version": "v2.4.3.0"
+        },
+        {
+            "name": "ROEngines",
+            "version": "v2.10.1.0"
+        },
+        {
+            "name": "ROEnginesExtended",
+            "version": "2.3.1"
+        },
+        {
+            "name": "ROHeatshields",
+            "version": "v1.2.2.0"
+        },
+        {
+            "name": "ROLib",
+            "version": "v1.9.1.0"
+        },
+        {
+            "name": "ROLoadingImages",
+            "version": "v1.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "version": "v2.1.2.0"
+        },
+        {
+            "name": "ROTanks",
+            "version": "v2.10.0.0"
+        },
+        {
+            "name": "ROUtils",
+            "version": "v1.0.1.0"
+        },
+        {
+            "name": "RSSDateTimeFormatter",
+            "version": "v1.12.1.0"
+        },
+        {
+            "name": "RSSTextures16K",
+            "version": "v18.6.1"
+        },
+        {
+            "name": "RSSVE-HR",
+            "version": "v2.2.0"
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0878"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0878"
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0878"
+        },
+        {
+            "name": "Shabby",
+            "version": "0.4.0"
+        },
+        {
+            "name": "SmokeScreen",
+            "version": "2.8.14.0"
+        },
+        {
+            "name": "SolverEngines",
+            "version": "v3.14.0"
+        },
+        {
+            "name": "SpaceTuxLibrary",
+            "version": "0.0.8.6"
+        },
+        {
+            "name": "StagedAnimation",
+            "version": "v2.0"
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "version": "2.0.11"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs",
+            "version": "2.0.11"
+        },
+        {
+            "name": "StockalikeStructures",
+            "version": "0.0.12"
+        },
+        {
+            "name": "SXTContinued",
+            "version": "2:0.3.29.9"
+        },
+        {
+            "name": "TestLite",
+            "version": "0.3.5"
+        },
+        {
+            "name": "TextureReplacer",
+            "version": "v4.5.3"
+        },
+        {
+            "name": "TexturesUnlimited",
+            "version": "1.6.1.27"
+        },
+        {
+            "name": "ToolbarController",
+            "version": "1:0.1.9.11"
+        },
+        {
+            "name": "TrackingStationEvolved",
+            "version": "7.0"
+        },
+        {
+            "name": "Trajectories",
+            "version": "v2.4.5.3"
+        },
+        {
+            "name": "TransferWindowPlannerFork",
+            "version": "v1.9.1.0"
+        },
+        {
+            "name": "TUFX",
+            "version": "1.1.0"
+        },
+        {
+            "name": "TundraSpaceCenter",
+            "version": "2.0.2"
+        },
+        {
+            "name": "TweakScale-Redist",
+            "version": "v2.4.8.4"
+        },
+        {
+            "name": "VenStockRevamp-Core",
+            "version": "v1.16.0"
+        },
+        {
+            "name": "VenStockRevamp-NewParts",
+            "version": "v1.16.0"
+        },
+        {
+            "name": "VesselMoverContinued",
+            "version": "v1.12.0"
+        },
+        {
+            "name": "Waterfall",
+            "version": "0.9.0"
+        },
+        {
+            "name": "WaypointManager",
+            "version": "2.8.4.2"
+        }
+    ],
+    "download": null,
+    "release_date": "2024-09-13T22:25:57.8625898+01:00",
+    "kind": "metapackage"
+}
