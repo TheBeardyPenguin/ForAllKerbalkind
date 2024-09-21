@@ -37,27 +37,22 @@ PioneerVernier,ALL
 .Knes.Veronique.Aileron,ALL
 .Knes.Vesta.AirBrake,ALL
 .Knes.Vesta.Aileron,ALL
-OscarAtank,ALL
 decoupler.ftr,ALL
 decoupler.ftr.small,ALL
 RSBtankSpherePSLV,ALL
 .Knes.Structural.EndCap.0625,ALL
 .Knes.Flat.SolarPanel.NanoSat,ALL
-RadialMonoMini,ALL
-RadialLF,ALL
 0625.Heatshield,ALL
 DC.aerocam2.180,ALL
 DC.aerocam2,ALL
 .Knes.Vesta.Parachute.03125,ALL
 RSBtankSphereDeltaIV,ALL
-RadialLFO,ALL
 EngineerChip,ALL
 .Knes.DirectAntenna.bread,ALL
 .Knes.RCS.Bump.tank,ALL
 .Knes.Skid,ALL
 SXTfloatOutboard,ALL
 nesdIntRcsDec,ALL
-OscarDtank,ALL
 SXTsolarPanelhex,ALL
 RSBtankSphereCentaur,ALL
 DC.ChemCam,ALL
@@ -67,12 +62,9 @@ Knes.MonoProp.FuelTank.Nano.09375,ALL
 SXTTubeAntenna,ALL
 TinyOMS,ALL
 Knes.Decoupler.Radial.Small,ALL
-RadialLFLong,ALL
 Heatshield-1M,ALL
-OscarEtank,ALL
 .Knes.Veronique.Engine.03125,ALL
 SXTSmallFuselage,ALL
-RadialLFOLong,ALL
 .Knes.Structural.Short.Adapter.09375.0625,ALL
 .Knes.Diamant.Decoupler.0625,ALL
 .Knes.Hermes.Antenna,ALL
@@ -250,7 +242,6 @@ sspx-adjusting-base-1875-1,ALL
 KF-APU,ALL
 SXTmk2cargoadapter,ALL
 PoodleM,ALL
-softTankMK1,ALL
 RSB.PLF.AtlasV500.CFLR,ALL
 RSBfinSaturnSIBblack,ALL
 RSBfinSaturnSIBwhite,ALL
@@ -289,7 +280,6 @@ RSBdecouplerDelta2,ALL
 .Knes.Coralie.LFO.125,ALL
 .Knes.L3S.Cryo.LH2.125,ALL
 .Knes.DiamantA.FuelTank.09375,ALL
-MK1LFOFuselage,ALL
 Adapter.PlayloadDM2,ALL
 Knes.Structural.Kylda,ALL
 SXTSaturnV1Base,ALL
@@ -308,7 +298,6 @@ SXTBalloonGoldB,ALL
 Knes.Cargo.Pod.09375,ALL
 size0PulseJet,ALL
 SXTsize2to3Adaptor,ALL
-softTankMK2,ALL
 SXTshockConeIntakeSize2,ALL
 AIRLOCK.EVA.HATCH,ALL
 SXTtruckrear,ALL
@@ -357,7 +346,6 @@ RSB.PLF.Delta3,ALL
 RSBfinSaturnSIblackS,ALL
 RSBfinSaturnSIwhiteS,ALL
 AIRLOCK.TUNNEL.AVERAGE,ALL
-softTankMK3,ALL
 sspx-adjusting-base-5-1,ALL
 RSB.PLF.Delta3L,ALL
 S2ServiceEngine,ALL
@@ -452,7 +440,6 @@ battery-125,ALL
 SXTadapterSize3Mk3,ALL
 SXTTank1,ALL
 Knes.Booster.P80,ALL
-softTankMK4,ALL
 RSBnoseconeSTSSRB,ALL
 rn.uda,ALL
 RSBfairingSaturn6m,ALL
@@ -479,7 +466,6 @@ capacitor-25,ALL
 RSBtankDeltaIVdcss4m,ALL
 RSB.PLF.DeltaIV5m2,ALL
 SXTBalloonGold375,ALL
-CryoXendButt,ALL
 RSB.PLF.DeltaIV5m3,ALL
 RSBdecouplerSaturnSIVB2,ALL
 SXTBalloon375,ALL
@@ -489,7 +475,6 @@ RSBtankDeltaIVdcss5m,ALL
 RSBnosecone10m,ALL
 DM2,ALL
 SXTWingVeryLarge,ALL
-softTankMK5,ALL
 SXTSaturnV2,ALL
 SXTnuclearramjet,ALL
 RSBdecouplerDirectET7m,ALL
@@ -507,7 +492,6 @@ RSBtankSaturnSIV,ALL
 RSBtankArianeVescA,ALL
 battery-25,ALL
 LargeInflatableHAB,ALL
-CryoXnoseCone,ALL
 RSBdecouplerSaturnSII8,ALL
 RSBtankSaturn10m6m,ALL
 reactor-375,ALL
@@ -519,7 +503,6 @@ RSBfairingSaturn10m,ALL
 .Knes.L3S.L140,ALL
 RSBdecouplerAresI5m,ALL
 SXTSaturnV1,ALL
-CryoXsmall,ALL
 RSBadapterDirect3Engines,ALL
 RSBtankDelta3thor,ALL
 RSBtowerDelta2,ALL
@@ -535,7 +518,6 @@ SXTKDBTsar1,ALL
 RSBtankArianeVcore,ALL
 .Knes.L3S.P120E,ALL
 Knes.Fuel.Tanks.EPC,ALL
-CryoXmed,ALL
 RSBtankAtlasVcore,ALL
 reactor-375-2,ALL
 RSBtankAresIstage2,ALL
@@ -546,7 +528,6 @@ RSBtankSaturnSIF,ALL
 RSBtankSaturnSIVC,ALL
 RSBtankSTSET,ALL
 RSBtankSaturnSII,ALL
-CryoXBig,ALL
 RSBtankSaturnSIB,ALL
 RSBenginePSLVps1,ALL
 Knes.Booster.EAP,ALL
@@ -565,7 +546,6 @@ SXTWingSmall,ALL
 SXTelevonLarge,ALL
 SXTelevonVeryLarge,ALL
 reactor-25-2,ALL
-Mk2Pod,ALL
 MEMLander,ALL
 kv1Pod,ALL
 kv2Pod,ALL
@@ -679,3 +659,6 @@ DeployedCentralStation,ALL
 DeployedWeatherStn,ALL
 flagPartSize1p5,ALL
 flagPartSize4,ALL
+bluedog_LTV,ALL
+Adapter_DM_Smerch,ALL
+nesdIR-GM,ALL
