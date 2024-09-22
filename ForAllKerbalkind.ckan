@@ -4,7 +4,7 @@
     "name": "ForAllKerbalkind",
     "abstract": "We came in peace for all Kerbalkind!",
     "author": "The Beardy Penguin",
-    "version": "1.4",
+    "version": "1.5",
     "ksp_version_min": "1.12.3",
     "ksp_version_max": "1.12.5",
     "license": "MIT",
@@ -198,6 +198,14 @@
             "version": "1.29"
         },
         {
+            "name": "KIUChineseHumanSpaceflightPack-RO",
+            "version": "1:1.0.9 Public Beta"
+        },
+        {
+            "name": "KIUChineseLaunchVehiclePack-RO",
+            "version": "1.1.10 Public Beta"
+        },
+        {
             "name": "Knes",
             "version": "v1.9.9"
         },
@@ -303,7 +311,7 @@
         },
         {
             "name": "RealFuels",
-            "version": "1:v15.9.0.0"
+            "version": "1:v15.10.0.0"
         },
         {
             "name": "RealFuelsISRU",
@@ -315,7 +323,7 @@
         },
         {
             "name": "RealismOverhaul",
-            "version": "v17.11.0.0"
+            "version": "v17.12.0.0"
         },
         {
             "name": "RealPlume",
@@ -347,7 +355,7 @@
         },
         {
             "name": "ROCapsules",
-            "version": "v2.4.3.0"
+            "version": "v2.5.0.0"
         },
         {
             "name": "ROEngines",
@@ -479,7 +487,7 @@
         },
         {
             "name": "TweakScale-Redist",
-            "version": "v2.4.8.4"
+            "version": "v2.4.8.5"
         },
         {
             "name": "VenStockRevamp-Core",
@@ -503,6 +511,6 @@
         }
     ],
     "download": null,
-    "release_date": "2024-09-13T22:25:57.8625898+01:00",
+    "release_date": "2024-09-22T19:29:44.6742928+01:00",
     "kind": "metapackage"
 }
