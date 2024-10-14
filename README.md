@@ -4,7 +4,7 @@
     <img src="static/images/FAK Logo.jpg" alt="For All Kerbalkind Logo" width="800px">
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 15px;">
     <a href="https://github.com/TheBeardyPenguin/ForAllKerbalkind/releases">
         <img src="https://img.shields.io/github/v/release/TheBeardyPenguin/ForAllKerbalkind" alt="GitHub Release">
     </a>
@@ -136,19 +136,19 @@ Create an empty folder in your KSP directory **GameData** folder named **NoNonRP
     <div style="display: inline-block; text-align: center; margin: 10px;">
         <p><strong>The Beardy Penguin</strong></p>
         <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
-            <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="250" height="250">
+            <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="175" height="175">
         </a>
     </div>
     <div style="display: inline-block; text-align: center; margin: 10px;">
         <p><strong>N9 Gaming</strong></p>
         <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
-            <img src="static/images/channels4_profile.jpg" alt="N9-channel" width="250" height="250">
+            <img src="static/images/channels4_profile.jpg" alt="N9-channel" width="175" height="175">
         </a>
     </div>
     <div style="display: inline-block; text-align: center; margin: 10px;">
         <p><strong>Carnasa</strong></p>
         <a href="https://www.youtube.com/carnasa" target="_blank">
-            <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="250" height="250">
+            <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="175" height="175">
         </a>
     </div>
 </div>
