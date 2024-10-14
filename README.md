@@ -133,24 +133,28 @@ Create an empty folder in your KSP directory **GameData** folder named **NoNonRP
 ## Check out the series!
 
 <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-        <p><strong>The Beardy Penguin</strong></p>
-        <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
-            <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="175" height="175">
-        </a>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-        <p><strong>N9 Gaming</strong></p>
-        <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
-            <img src="static/images/channels4_profile.jpg" alt="N9-channel" width="175" height="175">
-        </a>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-        <p><strong>Carnasa</strong></p>
-        <a href="https://www.youtube.com/carnasa" target="_blank">
-            <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="175" height="175">
-        </a>
-    </div>
+    <table>
+        <tr>
+            <td align="center">
+                <p><strong>The Beardy Penguin</strong></p>
+                <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
+                    <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="250" height="250">
+                </a>
+            </td>
+            <td align="center">
+                <p><strong>N9 Gaming</strong></p>
+                <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
+                    <img src="static/images/channels4_profile.jpg" alt="N9-channel" width="250" height="250">
+                </a>
+            </td>
+            <td align="center">
+                <p><strong>Carnasa</strong></p>
+                <a href="https://www.youtube.com/carnasa" target="_blank">
+                    <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="250" height="250">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## Discord
