@@ -1,4 +1,26 @@
-# For All Kerbalkind
+
+
+<div align="center">
+    <img src="static/images/FAK Logo.jpg" alt="For All Kerbalkind Logo" width="800px">
+</div>
+
+<div align="center" style="margin-top: 10px;">
+    <a href="https://github.com/TheBeardyPenguin/ForAllKerbalkind/releases">
+        <img src="https://img.shields.io/github/v/release/TheBeardyPenguin/ForAllKerbalkind" alt="GitHub Release">
+    </a>
+    <img src="https://img.shields.io/github/stars/TheBeardyPenguin/ForAllKerbalkind" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/downloads/TheBeardyPenguin/ForAllKerbalkind/total?logo=github" alt="GitHub All Releases">
+</div>
+
+---
+
+### Contents
+
+1.  [Overview](#the-ultimate-realism-overhaul-modpack)
+2.  [Installation](#installation)
+3.  [The Series](#check-out-the-series)
+4.  [Discord](#discord)
+
 ## The ultimate Realism Overhaul modpack
 Installing Realism Overhaul and its career mode RP-1 Realistic Progression can be overwhelming to begin with.
 Knowing which part mods and visual overhauls to add only complicates matters further, let alone the fact that many mods are not properly configured for RP-1. Historically, only determined or experienced modders have attempted to build an install and enjoy this incredible experience.
@@ -7,7 +29,11 @@ As featured in the multiplayer Youtube series of the same name, the **For All Ke
 <br>
 
 ## Installation
+<div align=center>
+<img src = "static\images\ReadMe.png" width=400 height=400>
+</div>
 
+---
 #### 1) Create a clean install of Kerbal Space Program 1.12.3
 Create a new install by copying and pasting your KSP directory (usually found in **Steam/steamapps/common/**), then giving it a relevant name.
 
@@ -101,3 +127,38 @@ After selecting the file, click the brooms icon again, then **PermaPrune**. This
 
 #### 17) Hide non RP0 parts
 Create an empty folder in your KSP directory **GameData** folder named **NoNonRP0**. This will hide all parts that cannot be pruned but are not configured for RO/RP-1 or are otherwise useless, to declutter your editor and tech tree.
+
+
+
+## Check out the series!
+
+<div align="center">
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <p><strong>The Beardy Penguin</strong></p>
+        <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
+            <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="250" height="250">
+        </a>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <p><strong>N9 Gaming</strong></p>
+        <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
+            <img src="static/images/channels4_profile.jpg" alt="N9-channel" width="250" height="250">
+        </a>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <p><strong>Carnasa</strong></p>
+        <a href="https://www.youtube.com/carnasa" target="_blank">
+            <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="250" height="250">
+        </a>
+    </div>
+</div>
+
+## Discord
+
+If you've followed the readme and still need more help, come along to one of our discords:
+
+### [Beardy's discord](https://discord.gg/VNUARRswWX) 
+
+### [N9's discord](https://discord.gg/n9gaming)
+
+### [Carnasa's discord](https://discord.gg/cYeXTeNBe8)
