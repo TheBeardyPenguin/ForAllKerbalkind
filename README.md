@@ -149,27 +149,31 @@ Create an empty folder in your KSP directory **GameData** folder named **NoNonRP
 ## Check out the series!
 
 <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-        <p><strong>The Beardy Penguin</strong></p>
-        <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
-            <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="175" height="175">
-        </a>
-        <p>Kaputnik Design Bureau (USSR)</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-        <p><strong>N9 Gaming</strong></p>
-        <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
-            <img src="static/images/2022Logo.png" alt="N9-channel" width="175" height="175">
-        </a>
-        <p>The Astral Foundation (USA)</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-        <p><strong>Carnasa</strong></p>
-        <a href="https://www.youtube.com/carnasa" target="_blank">
-            <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="175" height="175">
-        </a>
-        <p>CSC (UKSA/ESA)</p>
-    </div>
+    <table>
+        <tr>
+            <td align="center">
+                <p><strong>The Beardy Penguin</strong></p>
+                <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
+                    <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="250" height="250">
+                </a>
+                <p>Kaputnik Design Bureau (USSR)</p>
+            </td>
+            <td align="center">
+                <p><strong>N9 Gaming</strong></p>
+                <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
+                    <img src="static/images/2022Logo.png" alt="N9-channel" width="250" height="250">
+                </a>
+                <p>The Astral Foundation (USA)</p>
+            </td>
+            <td align="center">
+                <p><strong>Carnasa</strong></p>
+                <a href="https://www.youtube.com/carnasa" target="_blank">
+                    <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="250" height="250">
+                </a>
+                <p>CSC (UKSA/ESA)</p>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## Discord
