@@ -10,15 +10,6 @@
     <img src="https://img.shields.io/github/downloads/TheBeardyPenguin/ForAllKerbalkind/total?logo=github" alt="GitHub All Releases">
 </div>
 
----
-
-### Contents
-
-1.  [Overview](#the-ultimate-realism-overhaul-modpack)
-2.  [Installation](#installation)
-3.  [The Series](#check-out-the-series)
-4.  [Discord](#discord)
-
 ## The ultimate Realism Overhaul modpack
 
 Installing Realism Overhaul and its career mode RP-1 Realistic Progression can be overwhelming to begin with.
