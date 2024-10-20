@@ -528,10 +528,7 @@ RSBengineSTSSRB,ALL
 RSBtankSaturnSIC8,ALL
 SXTelevonSmallHalf,ALL
 SXTelevonSmall,ALL
-SEP.Box,ALL
-SEP.StorageShort,ALL
 SXTFuel625m,ALL
-SEP.StorageLong,ALL
 SXTWingSmall,ALL
 SXTelevonLarge,ALL
 SXTelevonVeryLarge,ALL
