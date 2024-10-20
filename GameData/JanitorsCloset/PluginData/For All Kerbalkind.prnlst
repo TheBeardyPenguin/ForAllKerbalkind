@@ -60,7 +60,6 @@ SXTAirbrake,ALL
 .Knes.RCS.Bump.roll,ALL
 Knes.MonoProp.FuelTank.Nano.09375,ALL
 SXTTubeAntenna,ALL
-TinyOMS,ALL
 Knes.Decoupler.Radial.Small,ALL
 Heatshield-1M,ALL
 .Knes.Veronique.Engine.03125,ALL
@@ -214,7 +213,6 @@ Knes.Aero.Fairing.250,ALL
 SXT16FuelTank,ALL
 .Knes.DiamantBP4.Booster.Rita.09375,ALL
 KF-RepulsorSurface,ALL
-AerobeeMk2,ALL
 LMkIAircaftFus,ALL
 AIRLOCK.TUNNEL.SHORT.MINI,ALL
 RSBdecouplerArianeVpayload1,ALL
@@ -238,14 +236,12 @@ sspx-adjusting-base-1875-1,ALL
 .Knes.Diamant2.Booster.Rita2.9375,ALL
 KF-APU,ALL
 SXTmk2cargoadapter,ALL
-PoodleM,ALL
 RSB.PLF.AtlasV500.CFLR,ALL
 RSBfinSaturnSIBblack,ALL
 RSBfinSaturnSIBwhite,ALL
 capacitor-rad-0625-2,ALL
 battery-rad-125,ALL
 Knes.Decoupler.G2500,ALL
-AerobeeMk1,ALL
 RSBfairingCarrack236,ALL
 RSBfairingPSLV,ALL
 RSB.PLF.Athena92,ALL
@@ -293,7 +289,6 @@ RSBadapterDeltaIV5m3m,ALL
 SXTBalloonGoldB,ALL
 .Knes.French.Hermes.Docking.Module,ALL
 Knes.Cargo.Pod.09375,ALL
-size0PulseJet,ALL
 SXTsize2to3Adaptor,ALL
 SXTshockConeIntakeSize2,ALL
 AIRLOCK.EVA.HATCH,ALL
@@ -345,7 +340,6 @@ RSBfinSaturnSIwhiteS,ALL
 AIRLOCK.TUNNEL.AVERAGE,ALL
 sspx-adjusting-base-5-1,ALL
 RSB.PLF.Delta3L,ALL
-S2ServiceEngine,ALL
 RSBdecouplerArianeV,ALL
 SXTsize2LFtank,ALL
 RSBdecouplerDelta3,ALL
@@ -508,7 +502,6 @@ RSBengineF1A,ALL
 .Knes.L3S.L220,ALL
 .Knes.L3S.L220N,ALL
 SXTLANCER,ALL
-size2nuclearEngine,ALL
 RSBtankSaturnSIVB,ALL
 RSBtowerDelta,ALL
 SXTKDBTsar1,ALL

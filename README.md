@@ -90,7 +90,7 @@ Adds incredible planet textures clouds, and weather effects. Useable with or wit
 
 Download the **automatic installer**, place it in your KSP directory and run it.
 
-Enable and select the zip of Blackrack's volumetric clouds if you have them.
+If you have **Blackrack's volumetric clouds**, select its zip file when prompted and RSS Reborn will ***automatically*** install it for you.
 
 Change the **Earth** textures to **16k** and leave everything else as default. **Higher resolutions will eat tens of GB of memory and our base statics will not display properly**, but up to you if you want to see the individual blades of grass at Cape Canaveral.
 
