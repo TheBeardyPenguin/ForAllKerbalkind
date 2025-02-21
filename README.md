@@ -29,7 +29,7 @@ Run CKAN, then ensure that you have the correct KSP instance targeted by going t
 
 **File -> Manage game instances -> New game instance -> Add instance to CKAN**
 
-then select the **buildID64** file inside your new KSP directory.
+then select the **KSP_x64.exe** file inside your new KSP directory.
 
 ### 5) Install the modpack
 Go to
@@ -38,8 +38,10 @@ Go to
 
 then select the **ForAllKerbalkind.ckan** file inside the modpack folder.
 
+If you see a warning that some mods are not compatible with your game version, ignore it and click **Install**.
+
 ### !!! DO NOT INSTALL ANY OF CKAN'S RECOMMENDATIONS OR SUGGESTIONS !!!
-De-select all of them with the option in the bottom left of the window.
+Uncheck all of them with the option in the top left of the window.
 
 After pressing continue, it will take a while to download all the mods.
 
@@ -90,20 +92,23 @@ Adds incredible planet textures clouds, and weather effects. Useable with or wit
 
 Download the **automatic installer**, place it in your KSP directory and run it.
 
+### !!! MAKE SURE YOU SELECT THE CORRECT KSP DIRECTORY !!!
+
 If you have **Blackrack's volumetric clouds**, select its zip file when prompted and RSS Reborn will ***automatically*** install it for you.
+
+**Enable** Recommended Community Visual Settings when prompted, and tick **all** boxes *except* for adding TUFX, as the modpack has already done that for you.
 
 Change the **Earth** textures to **16k** and leave everything else as default. **Higher resolutions will eat tens of GB of memory and our base statics will not display properly**, but up to you if you want to see the individual blades of grass at Cape Canaveral.
 
 ### 16) Install modpack configuration
-Copy the contents of the **GameData** folder in the For All Kerbalkind modpack folder into the **GameData** folder in your KSP directory.
+Copy the contents of the **GameData** folder in the For All Kerbalkind modpack folder into the **GameData** folder in your KSP directory, and overwrite any conflicts.
 
 Fixes several bugs, tweaks the tech tree and balance, and adds RO/RP-1 support for mods, custom spacesuits, gold sun visor, bases, flags, and more!
-
 
 ### 17) Prune unused parts
 Boot up the game, create a new save, and head into the **VAB**. Click the icon of two crossed brooms in the bottom right to open **Janitor's Closet**. Click **Export/Import**, then **Import**, then **For All Kerbalkind.prnlst**. The correct directory should open by default, but if you can't see the file then navigate to your KSP Directory, then **GameData/JanitorsCloset/PluginData**.
 
-After selecting the file, click the brooms icon again, then **PermaPrune**. This prevents the hundreds of unused mod parts from being loaded, drastically improving load times. This is easily reversible if necessary.
+After selecting the file, click the brooms icon again, then **PermaPrune**. This prevents the hundreds of unused mod parts from being loaded, dramatically improving load times. This is easily reversible if necessary.
 
 ### 18) Hide non RP0 parts
 Create an empty folder in your KSP directory **GameData** folder named **NoNonRP0**. This will hide all parts that cannot be pruned but are not configured for RO/RP-1 or are otherwise useless, to declutter your editor and tech tree.
