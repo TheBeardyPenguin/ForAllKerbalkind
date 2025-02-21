@@ -1,14 +1,14 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.6",
     "identifier": "ForAllKerbalkind",
-    "name": "ForAllKerbalkind",
-    "abstract": "We came in peace for all Kerbalkind!",
+    "name": "For All Kerbalkind",
+    "abstract": "One small installation for a Kerbal, one giant modpack for all Kerbalkind!",
     "author": "The Beardy Penguin",
     "version": "1.5",
     "ksp_version_min": "1.12.3",
     "ksp_version_max": "1.12.5",
     "license": "MIT",
-        "depends": [
+    "depends": [
         {
             "name": "AdvancedJetEngine",
             "version": "v2.20.0",
@@ -46,7 +46,7 @@
         },
         {
             "name": "BetterTimeWarpCont",
-            "version": "2.3.13",
+            "version": "2.3.13.1",
             "suppress_recommendations": true
         },
         {
@@ -61,12 +61,12 @@
         },
         {
             "name": "CameraTools",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "suppress_recommendations": true
         },
         {
             "name": "ClickThroughBlocker",
-            "version": "1:2.1.10.21",
+            "version": "1:2.1.10.22",
             "suppress_recommendations": true
         },
         {
@@ -76,7 +76,7 @@
         },
         {
             "name": "CommunityResourcePack",
-            "version": "v112.0.1",
+            "version": "v112.0.2-bleeding-edge.1",
             "suppress_recommendations": true
         },
         {
@@ -86,7 +86,7 @@
         },
         {
             "name": "ContractConfigurator",
-            "version": "v2.11.0.0",
+            "version": "v2.11.1.0",
             "suppress_recommendations": true
         },
         {
@@ -101,7 +101,7 @@
         },
         {
             "name": "Deferred",
-            "version": "1.2.3.0",
+            "version": "1.2.6.0",
             "suppress_recommendations": true
         },
         {
@@ -126,7 +126,7 @@
         },
         {
             "name": "DynamicBatteryStorage",
-            "version": "2:2.3.3.0",
+            "version": "2:2.3.6.0",
             "suppress_recommendations": true
         },
         {
@@ -137,6 +137,11 @@
         {
             "name": "FerramAerospaceResearchContinued",
             "version": "3:0.16.0.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "version": "1.0.1",
             "suppress_recommendations": true
         },
         {
@@ -161,7 +166,7 @@
         },
         {
             "name": "HullcamVDSContinued",
-            "version": "0.2.2.1",
+            "version": "0.2.2.3",
             "suppress_recommendations": true
         },
         {
@@ -221,17 +226,17 @@
         },
         {
             "name": "Kerbalism-Config-RO",
-            "version": "v1.2.19.0",
+            "version": "v1.3.1.0",
             "suppress_recommendations": true
         },
         {
             "name": "KerbalJointReinforcementContinued",
-            "version": "v3.7.5.0",
+            "version": "v3.8.4.0",
             "suppress_recommendations": true
         },
         {
             "name": "KerbalKonstructs",
-            "version": "v1.8.7.0",
+            "version": "v1.8.10.0",
             "suppress_recommendations": true
         },
         {
@@ -246,7 +251,7 @@
         },
         {
             "name": "KIUChineseHumanSpaceflightPack-RO",
-            "version": "1:1.0.9 Public Beta",
+            "version": "1:1.0.10 hot fix",
             "suppress_recommendations": true
         },
         {
@@ -261,7 +266,7 @@
         },
         {
             "name": "Kopernicus",
-            "version": "2:release-1.12.1-214",
+            "version": "2:release-1.12.1-223",
             "suppress_recommendations": true
         },
         {
@@ -286,12 +291,17 @@
         },
         {
             "name": "KSPCommunityFixes",
-            "version": "1.35.2",
+            "version": "1.36.1",
             "suppress_recommendations": true
         },
         {
             "name": "KSPWheel",
             "version": "1:0.16.14.33",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "LunarTransferPlanner",
+            "version": "v1.0.0",
             "suppress_recommendations": true
         },
         {
@@ -311,7 +321,7 @@
         },
         {
             "name": "ModularLaunchPads",
-            "version": "2.7.0",
+            "version": "2.8.0",
             "suppress_recommendations": true
         },
         {
@@ -361,7 +371,7 @@
         },
         {
             "name": "ProceduralParts",
-            "version": "v2.5.9.0",
+            "version": "v2.7.2.0",
             "suppress_recommendations": true
         },
         {
@@ -376,17 +386,17 @@
         },
         {
             "name": "RealChute",
-            "version": "v1.4.9.4",
+            "version": "v1.4.9.5",
             "suppress_recommendations": true
         },
         {
             "name": "RealChuteForStock",
-            "version": "v1.4.9.4",
+            "version": "v1.4.9.5",
             "suppress_recommendations": true
         },
         {
             "name": "RealFuels",
-            "version": "1:v15.10.1.0",
+            "version": "1:v15.11.1.0",
             "suppress_recommendations": true
         },
         {
@@ -401,7 +411,7 @@
         },
         {
             "name": "RealismOverhaul",
-            "version": "v17.12.0.0",
+            "version": "v17.17.0.0",
             "suppress_recommendations": true
         },
         {
@@ -421,7 +431,7 @@
         },
         {
             "name": "ReStock",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "suppress_recommendations": true
         },
         {
@@ -441,22 +451,22 @@
         },
         {
             "name": "ROCapsules",
-            "version": "v2.5.0.0",
+            "version": "v2.6.1.0",
             "suppress_recommendations": true
         },
         {
             "name": "ROEngines",
-            "version": "v2.10.1.0",
+            "version": "v2.13.0.0",
             "suppress_recommendations": true
         },
         {
             "name": "ROEnginesExtended",
-            "version": "2.3.1",
+            "version": "2.4.0",
             "suppress_recommendations": true
         },
         {
             "name": "ROHeatshields",
-            "version": "v1.2.2.0",
+            "version": "v1.3.0.0",
             "suppress_recommendations": true
         },
         {
@@ -496,7 +506,7 @@
         },
         {
             "name": "RSSVE-HR",
-            "version": "v2.2.0",
+            "version": "v2.2.1",
             "suppress_recommendations": true
         },
         {
@@ -571,7 +581,7 @@
         },
         {
             "name": "TexturesUnlimited",
-            "version": "1.6.1.27",
+            "version": "1.6.3.29",
             "suppress_recommendations": true
         },
         {
@@ -626,16 +636,15 @@
         },
         {
             "name": "Waterfall",
-            "version": "0.9.0",
+            "version": "0.10.3",
             "suppress_recommendations": true
         },
         {
             "name": "WaypointManager",
-            "version": "2.8.4.2",
+            "version": "2.8.4.4",
             "suppress_recommendations": true
         }
     ],
-    "download": null,
-    "release_date": "2024-09-22T19:29:44.6742928+01:00",
+    "release_date": "2025-02-21T13:46:12.7205912Z",
     "kind": "metapackage"
 }
