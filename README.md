@@ -1,4 +1,15 @@
-# For All Kerbalkind
+<div align="center">
+    <img src="static/images/FAK Logo.jpg" alt="For All Kerbalkind Logo" width="800px">
+</div>
+
+<div align="center" style="margin-top: 15px;">
+    <a href="https://github.com/TheBeardyPenguin/ForAllKerbalkind/releases">
+        <img src="https://img.shields.io/github/v/release/TheBeardyPenguin/ForAllKerbalkind" alt="GitHub Release">
+    </a>
+    <img src="https://img.shields.io/github/stars/TheBeardyPenguin/ForAllKerbalkind" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/downloads/TheBeardyPenguin/ForAllKerbalkind/total?logo=github" alt="GitHub All Releases">
+</div>
+
 ## The ultimate Realism Overhaul modpack
 *One small install for a Kerbal, one giant modpack for all Kerbalkind!*
 <br>
@@ -14,6 +25,12 @@ As featured in the multiplayer Youtube series of the same name, the **For All Ke
 
 ## Installation
 
+<div align=center>
+<img src = "static\images\ReadMe.png" width=400 height=400>
+</div>
+
+---
+
 ### 1) Create a clean install of Kerbal Space Program 1.12.3
 Create a new install by copying and pasting your KSP directory (usually found in **Steam/steamapps/common/**), then giving it a relevant name.
 
@@ -25,10 +42,12 @@ I like to place it inside the newly created KSP directory, but it can be run fro
 ### 3) Download the latest release of this modpack
 The latest release can be found on the right hand side of this page.
 
+
 Download it and extract the contents into a convenient location.
 
 ### 4) Run CKAN
 Run CKAN, then ensure that you have the correct KSP instance targeted by going to
+
 
 **File -> Manage game instances -> New game instance -> Add instance to CKAN**
 
@@ -37,7 +56,9 @@ then select the **KSP_x64.exe** file inside your new KSP directory.
 ### 5) Install the modpack
 Go to
 
+
 **File -> Install from .ckan**
+
 
 then select the **ForAllKerbalkind.ckan** file inside the modpack folder.
 
@@ -96,6 +117,7 @@ Once in-game, click the **TUFX** icon on the toolbar and select the **Blackrack_
 **Only recommended for powerful computers with a minimum of 16 GB of RAM**.
 Adds incredible planet textures clouds, and weather effects. Useable with or without [Blackrack's volumetric clouds](https://www.patreon.com/blackrack/posts).
 
+
 Download the **automatic installer**, place it in your KSP directory and run it.
 
 ### !!! MAKE SURE YOU SELECT THE CORRECT KSP DIRECTORY !!!
@@ -118,3 +140,43 @@ After selecting the file, click the brooms icon again, then **PermaPrune**. This
 
 ### 19) Hide non RP0 parts
 Create an empty folder in your KSP directory **GameData** folder named **NoNonRP0**. This will hide all parts that cannot be pruned but are not configured for RO/RP-1 or are otherwise useless, to declutter your editor and tech tree.
+
+## Check out the series!
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <p><strong>The Beardy Penguin</strong></p>
+                <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
+                    <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="250" height="250">
+                </a>
+                <p>Kaputnik Design Bureau (USSR)</p>
+            </td>
+            <td align="center">
+                <p><strong>N9 Gaming</strong></p>
+                <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
+                    <img src="static/images/2022Logo.png" alt="N9-channel" width="250" height="250">
+                </a>
+                <p>The Astral Foundation (USA)</p>
+            </td>
+            <td align="center">
+                <p><strong>Carnasa</strong></p>
+                <a href="https://www.youtube.com/carnasa" target="_blank">
+                    <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="250" height="250">
+                </a>
+                <p>CSC (UKSA/ESA)</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## Discord
+
+If you've followed the readme and still need more help, come along to one of our discords:
+
+### [Beardy's discord](https://discord.gg/VNUARRswWX)
+
+### [N9's discord](https://discord.gg/n9gaming)
+
+### [Carnasa's discord](https://discord.gg/cYeXTeNBe8)
