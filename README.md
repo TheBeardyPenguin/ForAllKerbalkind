@@ -106,6 +106,8 @@ Then copy **VenStockRevamp** into the **GameData** folder in your KSP directory.
 ### 14) Run the game
 Run **KSP_x64.exe** in your KSP directory and ensure you can reach the main menu. This may take a long time, but if it keeps crashing or you get stuck on an endless black loading screen you have gone wrong somewhere. Restart from step 1 and make sure you haven't missed anything.
 
+Ignore Kerbinside complaining that the game version is unsupported - it works just fine.
+
 ### 15) OPTIONAL - [Install Blackrack's TUFX Profile](https://drive.google.com/file/d/1zCqxMuG4nyQJlpVshsWkiyCdSi-1Wswj/view)
 Adds a post-processing profile that works great with the **Deferred** mod packaged with the modpack. 
 
