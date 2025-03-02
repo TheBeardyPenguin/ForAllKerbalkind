@@ -76,7 +76,7 @@
         },
         {
             "name": "CommunityResourcePack",
-            "version": "v112.0.2-bleeding-edge.1",
+            "version": "v112.0.1",
             "suppress_recommendations": true
         },
         {
