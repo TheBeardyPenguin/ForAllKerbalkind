@@ -245,6 +245,11 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbinSideRemastered",
+            "version": "1.0.1",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KIS",
             "version": "1.29",
             "suppress_recommendations": true
