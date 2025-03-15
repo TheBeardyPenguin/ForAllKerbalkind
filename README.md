@@ -29,6 +29,8 @@ As featured in the multiplayer Youtube series of the same name, the **For All Ke
 <img src = "static\images\ReadMe.png" width=400 height=400>
 </div>
 
+If you decide to deviate from this guide in any way, *do not ask for support*.
+
 ---
 
 ### 1) Create a clean install of Kerbal Space Program 1.12.3
