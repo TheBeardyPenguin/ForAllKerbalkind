@@ -33,10 +33,8 @@ If you decide to deviate from this guide in any way, *do not ask for support*.
 
 ---
 
-### 1) Create a clean install of Kerbal Space Program 1.12.3
+### 1) Create a clean install of the latest version of Kerbal Space Program - 1.12.5
 Create a new install by copying and pasting your KSP directory (usually found in **Steam/steamapps/common/**), then giving it a relevant name.
-
-1.12.5 *should* work if you didn't buy the game through Steam and are completely unable to roll back the version, but no guarantees.
 
 ### 2) [Download CKAN](https://github.com/KSP-CKAN/CKAN/releases)
 I like to place it inside the newly created KSP directory, but it can be run from anywhere.
@@ -67,8 +65,6 @@ then select the **ForAllKerbalkind.ckan** file inside the modpack folder.
 If you see a warning that some mods are not compatible with your game version, ignore it and click **Install**.
 
 ### !!! DO NOT INSTALL ANY OF CKAN'S RECOMMENDATIONS OR SUGGESTIONS !!!
-Uncheck all of them with the option in the top left of the window.
-
 After pressing continue, it will take a while to download all the mods.
 
 ### 6) [Install RP-1 v1.13.2.2](https://github.com/KSP-RO/RP-1/releases/tag/v1.13.2.2)

@@ -4,14 +4,314 @@
     "name": "For All Kerbalkind",
     "abstract": "One small installation for a Kerbal, one giant modpack for all Kerbalkind!",
     "author": "The Beardy Penguin",
-    "version": "1.5",
+    "version": "1.5.4",
     "ksp_version_min": "1.12.3",
     "ksp_version_max": "1.12.5",
     "license": "MIT",
     "depends": [
         {
+            "name": "ModuleManager",
+            "version": "4.2.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Harmony2",
+            "version": "2.2.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ClickThroughBlocker",
+            "version": "1:2.1.10.22",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ToolbarController",
+            "version": "1:0.1.9.13",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "version": "1.37.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularFlightIntegrator",
+            "version": "1.2.10.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScale-Redist",
+            "version": "v2.4.8.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityResourcePack",
+            "version": "v112.0.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FerramAerospaceResearchContinued",
+            "version": "3:0.16.0.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalChangelog",
+            "version": "v1.4.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChute",
+            "version": "v1.4.9.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SolverEngines",
+            "version": "v3.14.0",
+            "suppress_recommendations": true
+        },
+        {
             "name": "AdvancedJetEngine",
             "version": "v2.20.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9PartSwitch",
+            "version": "v2.20.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "version": "v3.8.5.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChuteForStock",
+            "version": "v1.4.9.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealHeat",
+            "version": "v5.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROUtils",
+            "version": "v1.0.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmokeScreen",
+            "version": "2.8.14.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TexturesUnlimited",
+            "version": "1.6.3.29",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealFuels",
+            "version": "1:v15.11.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealPlume",
+            "version": "2:v13.3.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealismOverhaul",
+            "version": "v17.18.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CustomPreLaunchChecks",
+            "version": "1.8.1.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROLib",
+            "version": "v1.9.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalKonstructs",
+            "version": "v1.9.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDAnimationModules",
+            "version": "1:v0.6.7.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Shabby",
+            "version": "0.4.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SpaceTuxLibrary",
+            "version": "0.0.8.7",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "version": "v112.0.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockingFunctions",
+            "version": "v1.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kopernicus",
+            "version": "2:release-1.12.1-224",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPWheel",
+            "version": "1:0.16.14.33",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PatchManager",
+            "version": "0.0.17.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSTextures16K",
+            "version": "v18.6.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StagedAnimation",
+            "version": "v2.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "version": "0.10.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "version": "v2.2.0.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject-default",
+            "version": "v2.2.0.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DynamicBatteryStorage",
+            "version": "2:2.3.6.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.7.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FirespitterCore",
+            "version": "v7.17",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FirespitterResourcesConfig",
+            "version": "v7.17",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "IR-ConnectionSystem",
+            "version": "v1.0.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalism",
+            "version": "3.19",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalism-Config-RO",
+            "version": "v1.3.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst",
+            "version": "v1.5.5.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DepthMask",
+            "version": "1.1.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical-Core",
+            "version": "1.2.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureProps",
+            "version": "1:0.7.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealSolarSystem",
+            "version": "v20.1.3.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RetractableLiftingSurface",
+            "version": "0.2.1.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROEngines",
+            "version": "v2.13.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "version": "2.0.11",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "version": "v4.5.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VenStockRevamp-Core",
+            "version": "v1.16.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BuranEnergia",
+            "version": "2.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularLaunchPads",
+            "version": "2.8.1",
             "suppress_recommendations": true
         },
         {
@@ -30,16 +330,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "B9PartSwitch",
-            "version": "v2.20.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BDAnimationModules",
-            "version": "1:v0.6.7.1",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Benjee10Suits",
             "version": "v1.1.0",
             "suppress_recommendations": true
@@ -55,28 +345,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "BuranEnergia",
-            "version": "2.1",
-            "suppress_recommendations": true
-        },
-        {
             "name": "CameraTools",
-            "version": "v1.36.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ClickThroughBlocker",
-            "version": "1:2.1.10.22",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommunityCategoryKit",
-            "version": "v112.0.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommunityResourcePack",
-            "version": "v112.0.1",
+            "version": "v1.36.1",
             "suppress_recommendations": true
         },
         {
@@ -95,63 +365,13 @@
             "suppress_recommendations": true
         },
         {
-            "name": "CustomPreLaunchChecks",
-            "version": "1.8.1.1",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Deferred",
             "version": "1.2.6.0",
             "suppress_recommendations": true
         },
         {
-            "name": "DepthMask",
-            "version": "1.1.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DistantObject",
-            "version": "v2.2.0.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DistantObject-default",
-            "version": "v2.2.0.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DockingFunctions",
-            "version": "v1.0.4",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DynamicBatteryStorage",
-            "version": "2:2.3.6.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "EnvironmentalVisualEnhancements",
-            "version": "3:1.11.7.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FerramAerospaceResearchContinued",
-            "version": "3:0.16.0.5",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Firefly",
-            "version": "1.0.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FirespitterCore",
-            "version": "v7.17",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FirespitterResourcesConfig",
-            "version": "v7.17",
+            "version": "1.0.3",
             "suppress_recommendations": true
         },
         {
@@ -160,13 +380,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Harmony2",
-            "version": "2.2.1.0",
-            "suppress_recommendations": true
-        },
-        {
             "name": "HullcamVDSContinued",
-            "version": "0.2.2.3",
+            "version": "0.2.2.4",
             "suppress_recommendations": true
         },
         {
@@ -185,28 +400,13 @@
             "suppress_recommendations": true
         },
         {
-            "name": "IR-ConnectionSystem",
-            "version": "v1.0.5",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "JanitorsCloset",
-            "version": "0.3.9",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KAS",
-            "version": "1.12",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalAlarmClock",
             "version": "v3.14.0.0",
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalChangelog",
-            "version": "v1.4.2",
+            "name": "KAS",
+            "version": "1.12",
             "suppress_recommendations": true
         },
         {
@@ -220,23 +420,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Kerbalism",
-            "version": "3.19",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kerbalism-Config-RO",
-            "version": "v1.3.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalJointReinforcementContinued",
-            "version": "v3.8.4.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalKonstructs",
-            "version": "v1.8.10.0",
+            "name": "KIS",
+            "version": "1.29",
             "suppress_recommendations": true
         },
         {
@@ -255,11 +440,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KIS",
-            "version": "1.29",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KIUChineseHumanSpaceflightPack-RO",
             "version": "1:1.0.10 hot fix",
             "suppress_recommendations": true
@@ -275,18 +455,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Kopernicus",
-            "version": "2:release-1.12.1-223",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Kosmodrome",
             "version": "v1.01",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSCPlusPlus",
-            "version": "1:4.1",
             "suppress_recommendations": true
         },
         {
@@ -295,18 +465,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KSPBurst",
-            "version": "v1.5.5.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSPCommunityFixes",
-            "version": "1.36.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSPWheel",
-            "version": "1:0.16.14.33",
+            "name": "KSCPlusPlus",
+            "version": "1:4.1",
             "suppress_recommendations": true
         },
         {
@@ -325,33 +485,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ModularFlightIntegrator",
-            "version": "1.2.10.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ModularLaunchPads",
-            "version": "2.8.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ModuleManager",
-            "version": "4.2.3",
-            "suppress_recommendations": true
-        },
-        {
             "name": "NearFutureElectrical",
             "version": "1.2.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NearFutureElectrical-Core",
-            "version": "1.2.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NearFutureProps",
-            "version": "1:0.7.2",
             "suppress_recommendations": true
         },
         {
@@ -360,13 +495,13 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ParkingBrake",
-            "version": "0.4.4",
+            "name": "StockalikeStructures",
+            "version": "0.0.12",
             "suppress_recommendations": true
         },
         {
-            "name": "PatchManager",
-            "version": "0.0.17.6",
+            "name": "ParkingBrake",
+            "version": "0.4.4",
             "suppress_recommendations": true
         },
         {
@@ -395,18 +530,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RealChute",
-            "version": "v1.4.9.5",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealChuteForStock",
-            "version": "v1.4.9.5",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealFuels",
-            "version": "1:v15.11.1.0",
+            "name": "RealScaleBoosters",
+            "version": "0.16",
             "suppress_recommendations": true
         },
         {
@@ -415,78 +540,18 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RealHeat",
-            "version": "v5.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealismOverhaul",
-            "version": "v17.17.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealPlume",
-            "version": "2:v13.3.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealScaleBoosters",
-            "version": "0.16",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealSolarSystem",
-            "version": "v20.1.3.0",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ReStock",
             "version": "1.5.1",
             "suppress_recommendations": true
         },
         {
-            "name": "RetractableLiftingSurface",
-            "version": "0.2.1.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RN-SalyutStations",
-            "version": "1:v3.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RN-SovietSpacecraft",
-            "version": "1:v1.8.8",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ROCapsules",
-            "version": "v2.6.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROEngines",
-            "version": "v2.13.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROEnginesExtended",
-            "version": "2.4.0",
+            "version": "v2.6.2.0",
             "suppress_recommendations": true
         },
         {
             "name": "ROHeatshields",
             "version": "v1.3.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROLib",
-            "version": "v1.9.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROLoadingImages",
-            "version": "v1.0.0.0",
             "suppress_recommendations": true
         },
         {
@@ -500,8 +565,13 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ROUtils",
-            "version": "v1.0.1.0",
+            "name": "ROEnginesExtended",
+            "version": "2.4.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROLoadingImages",
+            "version": "v1.0.0.0",
             "suppress_recommendations": true
         },
         {
@@ -510,58 +580,18 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RSSTextures16K",
-            "version": "v18.6.1",
-            "suppress_recommendations": true
-        },
-        {
             "name": "RSSVE-HR",
             "version": "v2.2.1",
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer",
-            "version": "3:v0.0878",
+            "name": "RN-SalyutStations",
+            "version": "1:v3.6",
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer-config",
-            "version": "3:v0.0878",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-sunflare",
-            "version": "3:v0.0878",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Shabby",
-            "version": "0.4.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SmokeScreen",
-            "version": "2.8.14.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SolverEngines",
-            "version": "v3.14.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SpaceTuxLibrary",
-            "version": "0.0.8.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StagedAnimation",
-            "version": "v2.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StationPartsExpansionRedux",
-            "version": "2.0.11",
+            "name": "RN-SovietSpacecraft",
+            "version": "1:v1.8.8",
             "suppress_recommendations": true
         },
         {
@@ -570,13 +600,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "StockalikeStructures",
-            "version": "0.0.12",
-            "suppress_recommendations": true
-        },
-        {
             "name": "SXTContinued",
-            "version": "2:0.3.29.9",
+            "version": "2:0.3.30",
             "suppress_recommendations": true
         },
         {
@@ -585,23 +610,13 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TextureReplacer",
-            "version": "v4.5.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TexturesUnlimited",
-            "version": "1.6.3.29",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ToolbarController",
-            "version": "1:0.1.9.11",
+            "name": "JanitorsCloset",
+            "version": "0.3.9",
             "suppress_recommendations": true
         },
         {
             "name": "TrackingStationEvolved",
-            "version": "7.0",
+            "version": "2:1.0.8.2",
             "suppress_recommendations": true
         },
         {
@@ -625,16 +640,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScale-Redist",
-            "version": "v2.4.8.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "VenStockRevamp-Core",
-            "version": "v1.16.0",
-            "suppress_recommendations": true
-        },
-        {
             "name": "VenStockRevamp-NewParts",
             "version": "v1.16.0",
             "suppress_recommendations": true
@@ -645,16 +650,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Waterfall",
-            "version": "0.10.3",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WaypointManager",
-            "version": "2.8.4.4",
+            "version": "2.8.4.7",
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-02-21T13:46:12.7205912Z",
+    "release_date": "2025-04-11T14:26:19.4947736Z,
     "kind": "metapackage"
 }
