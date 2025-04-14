@@ -248,28 +248,33 @@ If everything has been set up correctly and works, you should now be able to sta
                 <a href="https://www.youtube.com/@TheBeardyPenguin" target="_blank">
                     <img src="static/images/Rocketeer.png" alt="Beardy-channel" width="250" height="250">
                 </a>
-                <p>Kaputnik Design Bureau (USSR)</p>
+                <p>Kaputnik Design Bureau</p>
+                <p>(USSR)</p>
             </td>
             <td align="center">
                 <p><strong>N9 Gaming</strong></p>
                 <a href="https://www.youtube.com/@N9GamingOfficial" target="_blank">
                     <img src="static/images/2022Logo.png" alt="N9-channel" width="250" height="250">
                 </a>
-                <p>The Astral Foundation (USA)</p>
+                <p>The Astral Foundation</p>
+                <p>(USA)</p>
             </td>
             <td align="center">
+                <p>　</p>
                 <p><strong>Carnasa</strong></p>
                 <a href="https://www.youtube.com/@Carnasa" target="_blank">
                     <img src="static/images/PatreonTier4.png" alt="Carnasa-channel" width="250" height="250">
                 </a>
-                <p>Commonwealth Space Commission / ESA (Europe & British Commonwealth)</p>
+                <p>Commonwealth Space Commission</p>
+                <p>(Europe & British Commonwealth)</p>
             </td>
             <td align="center">
                 <p><strong>Calvin Maclure</strong></p>
                 <a href="https://www.youtube.com/@CalvinMaclure" target="_blank">
                     <img src="static/images/CalvinMaclure.jpg" alt="Calvin-channel" width="250" height="250">
                 </a>
-                <p>LPSP-CCP-LPCC-SCLP (China)</p>
+                <p>LPSP-CCP-LPCC-SCLP</p>
+                <p>(China)</p>
             </td>
         </tr>
     </table>
