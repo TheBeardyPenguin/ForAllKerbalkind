@@ -4,7 +4,7 @@
     "name": "For All Kerbalkind",
     "abstract": "One small installation for a Kerbal, one giant modpack for all Kerbalkind!",
     "author": "The Beardy Penguin",
-    "version": "1.5.4",
+    "version": "1.6.1",
     "ksp_version_min": "1.12.3",
     "ksp_version_max": "1.12.5",
     "license": "MIT",
@@ -121,7 +121,7 @@
         },
         {
             "name": "RealismOverhaul",
-            "version": "v17.18.0.0",
+            "version": "v17.17.0.0",
             "suppress_recommendations": true
         },
         {
