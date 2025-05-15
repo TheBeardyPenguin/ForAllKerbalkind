@@ -121,7 +121,7 @@ Download and extract the *contents* of the ZIP-File's **``GameData``** folder in
 
 
 ### 9) [Install mcd0uble's HL-20 Parts](https://github.com/mcd0uble/HL20/archive/refs/heads/master.zip)
-*Adds parts and a model for the NASA "HL-20" Lifting-body spaceplane.<br>These are currently used to create a working MiG-105/Spiral Spaceplane - an actual HL-20 Personell Launch System config might be made later down the line.*
+*Adds parts and a model for the NASA "HL-20" Lifting-body spaceplane.<br>These are currently used to create a working MiG-105/Spiral Spaceplane - an actual HL-20 Personnel Launch System config might be made later down the line.*
 
 Download and extract the *contents* of the ZIP-File's **``GameData``** folder into the **``GameData``** folder in your KSP directory.
 
