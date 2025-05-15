@@ -58,7 +58,7 @@ Prepare your install by copying/cloning a **clean** **KSP 1.12.5** installation 
 > Completely re-download/re-install the game if you do not have a "clean" install of KSP available to copy for this.
 
 Make sure you give your new installation folder a suitable name.
-Your final installation folder & executable should now be something like ``...\Games\KSP_ForAllKerbalkind\KSP_x64.exe``.
+Your final installation folder and executable should now be something like ``...\Games\KSP_ForAllKerbalkind\KSP_x64.exe``.
 
 
 ### 2) [Download the latest release of CKAN](https://github.com/KSP-CKAN/CKAN/releases/latest)
@@ -163,13 +163,13 @@ Go to **``GameData\KerbinSideRemastered``** and delete **``MiniAVC.dll``**. This
 ### 14) [Install Blackrack's TUFX Profile](https://drive.usercontent.google.com/u/0/uc?id=1zCqxMuG4nyQJlpVshsWkiyCdSi-1Wswj&export=download)
 *Adds a post-processing profile that works great with the **Deferred** mod that is packaged with the modpack.*
 
-Download & copy the file into the **``GameData``** folder in your KSP directory.
+Download and copy the file into the **``GameData``** folder in your KSP directory.
 
 
 ### 15) First KSP Launch
 
 > [!IMPORTANT]
-> ### Launching the game at this stage is <ins>**REQUIRED**</ins> for some files to properly generate & save to the cache!
+> ### Launching the game at this stage is <ins>**REQUIRED**</ins> for some files to properly generate and save to the cache!
 
 Run the **``KSP_x64.exe``** in your KSP directory (or launch the game through CKAN) and ensure you can reach the main menu with all the install steps that were done so far.
 
