@@ -135,7 +135,7 @@ Download and extract the *contents* of the ZIP-File's **``GameData``** folder in
 ### 11) [Install BluedogDB's LRV](https://spacedock.info/mod/442/Bluedog%20Design%20Bureau/download)
 *Adds a much better Lunar Roving Vehicle than the default one included in RO.*
 
-Download, extract the ZIP-File to a temporary location, and then **delete <ins>everything</ins>** except for the **``Gamedata\Bluedog_DB\Parts\Apollo\LRV``** folder.
+Download and extract the ZIP-File to a temporary location, and then **delete <ins>everything</ins>** except for the **``Gamedata\Bluedog_DB\Parts\Apollo\LRV``** folder.
 
 Afterwards, copy the **``Bluedog_DB``** folder into the **``GameData``** folder in your KSP directory.
 
@@ -146,7 +146,7 @@ Afterwards, copy the **``Bluedog_DB``** folder into the **``GameData``** folder 
 ### 12) [Install Ven's Stock Revamp Antenna](https://github.com/Kerbas-ad-astra/Stock-Revamp/releases/latest)
 *Adds an excellent Soviet-style antenna model.*
 
-Download, extract the ZIP-File to a temporary location, and then **delete <ins>everything</ins>** except for the **``GameData\VenStockRevamp\Squad\Parts\ScienceParts``** folder.
+Download and extract the ZIP-File to a temporary location, and then **delete <ins>everything</ins>** except for the **``GameData\VenStockRevamp\Squad\Parts\ScienceParts``** folder.
 
 Afterwards, copy the **``VenStockRevamp``** folder into the **``GameData``** folder in your KSP directory.
 
