@@ -470,8 +470,8 @@
             "suppress_recommendations": true
         },
         {
-            "name": "LunarTransferPlanner",
-            "version": "v1.0.0",
+            "name": "TargetInterceptPlanner",
+            "version": "v1.0.1.0",
             "suppress_recommendations": true
         },
         {
