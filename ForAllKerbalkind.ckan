@@ -4,7 +4,7 @@
     "name": "For All Kerbalkind",
     "abstract": "One small installation for a Kerbal, one giant modpack for all Kerbalkind!",
     "author": "The Beardy Penguin",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "ksp_version_min": "1.12.3",
     "ksp_version_max": "1.12.5",
     "license": "MIT",
@@ -377,6 +377,11 @@
         {
             "name": "HangerExtenderExtended",
             "version": "3.6.0.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
+            "version": "0.6.2",
             "suppress_recommendations": true
         },
         {
