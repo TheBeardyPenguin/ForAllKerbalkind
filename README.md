@@ -191,14 +191,19 @@ Download and extract the *contents* of the ZIP-File's **``GameData``** folder in
 ### 17) OPTIONAL - [Install Ballisticfox's RSS Reborn](https://github.com/RSS-Reborn/RSS-Reborn/wiki/Installation)
 **Only recommended for powerful computers with a minimum of 16 GB of RAM, a fair amount of SSD Storage Space, and a good GPU**.
 
-Adds incredible planet textures, clouds, and weather effects. RSS Reborn is usable with or without [Blackrack's Raymarched Volumetric Clouds](https://www.patreon.com/blackrack/posts).
+Adds incredible planet textures. RSS Reborn is usable with or without Blackrack's Raymarched Volumetric Clouds.
+
+We intend to migrate to [Sol](https://forum.kerbalspaceprogram.com/topic/229428-112x-sol-a-modern-recreation-of-our-home-system-at-real-quarter-and-stock-scale/) eventually, but can't at present as it would be save-breaking.
+
+> [!CAUTION]
+> If you decide use **Sol** instead, ***do so at your own risk***.
 
 [Download the Automatic RSS Reborn Installer](https://github.com/drobie22/RSS-Reborn-Installer/releases/latest), place it in your KSP directory and run it.
 
 > [!WARNING]
 > Make sure you select the correct KSP Directory, e.g. ``...\Games\KSP_ForAllKerbalkind\``.
 
-If you have **Blackrack's Raymarched Volumetric Clouds**, select its ZIP file when prompted and RSS Reborn will ***automatically*** install it for you.
+Do *not* install **Blackrack's Raymarched Volumetric Clouds** during the automatic install as it is not compatible beyond release 4. For volumetric clouds, follow step 18.
 
 **Enable** "Recommended Community Visual Settings" when prompted, and tick **all** boxes *except* for adding TUFX, as the modpack has already done that for you.
 
@@ -207,13 +212,34 @@ Change the **Earth** textures to **16k** and leave everything else as default.
 > **Higher resolutions will eat tens of GB of memory and cause our custom Kerbal Konstructs bases to not display properly.** It is up to you if you want to see the individual blades of grass at Cape Canaveral with <10 FPS, but we do not recommend going above 16k for performance and stability reasons.
 
 
-### 18) Install the For All Kerbalkind Modpack Files
+### 18) OPTIONAL - [Install Blackrack's Raymarched Volumetric Clouds](https://www.patreon.com/blackrack/posts)
+**Only tested with Blackrack's Volumetrics release 5**
+
+Download [RSS-Volumetrics] and [Blackrack's Raymarched Volumetric Clouds](https://www.patreon.com/posts/139881534).
+
+Delete the following folders from your **``GameData``** folder in your KSP directory if they exist:
+- ``EnvironmentalVisualEnhancements``
+- ``RSSVE-Configs``
+- ``RSSVE-Textures``
+- ``Scatterer``
+
+Extract the Sol-Volumetrics zip and copy the **``Sol-Volumetrics``** folder inside into the **``GameData``** folder in your KSP directory.
+
+Extract the Blackrack Volumetrics zip and copy the following folders inside the **``GameData``** into the **``GameData``** folder in your KSP directory:
+- ``EnvironmentalVisualEnhancements``
+- ``Scatterer``
+- ``StockVolumetricClouds``
+
+> [!WARNING]
+> You do *not* need the ``StockScattererConfigs`` folder. Do not copy that.
+
+### 19) Install the For All Kerbalkind Modpack Files
 Copy the contents of the **``GameData``** folder in the For All Kerbalkind modpack folder into the **``GameData``** folder in your KSP directory, and overwrite any conflicts.
 
 Fixes several bugs, tweaks the tech tree and balance, and adds RO/RP-1 support for mods, custom spacesuits, gold sun visor, bases, flags, and more!
 
 
-### 19) Prune various unused parts
+### 20) Prune various unused parts
 Boot up the game, create a new save, and head into the **VAB**. Click the icon of two crossed brooms in the bottom right to open **Janitor's Closet**. Click **Export/Import**, then **Import**, then **``For All Kerbalkind.prnlst``**. The correct directory should open by default - if you can't see the file, navigate to your KSP Directory, then **``GameData/JanitorsCloset/PluginData``**.
 
 After selecting the file, click the brooms icon again, then **PermaPrune**. This prevents the hundreds of unused mod parts from being loaded, **dramatically improving load times and reducing memory usage**.
@@ -221,19 +247,19 @@ After selecting the file, click the brooms icon again, then **PermaPrune**. This
 This process is easily reversible if necessary. It will take a few minutes, so be patient.
 
 
-### 20) Select the TUFX profile
+### 21) Select the TUFX profile
 Launch a basic vessel, such as a cockpit, to get to the *Flight* scene. **This needs to be a real launch, and <ins>NOT</ins> a KCT simulation.**
 
 Once loaded click on the TUFX button in the Toolbar, select the "**Blackrack_TUFX**" profile in the list, and then  **exit to the Space Center** so the settings save (don't revert, as this will also revert your change).
 
 
-### 21) Hide non-RP0 parts
+### 22) Hide non-RP0 parts
 Create a new empty folder in your KSP directory's **``GameData``** folder and name it **``NoNonRP0``**.
 
 This will hide all parts that cannot be pruned but are not configured for RO/RP-1 or are otherwise useless, to declutter your editor and tech tree.
 
 
-### 22) Play the game!
+### 23) Play the game!
 If everything has been set up correctly and works, you should now be able to start playing!
 
 > [!TIP]
@@ -272,14 +298,6 @@ If everything has been set up correctly and works, you should now be able to sta
                 </a>
                 <p>Commonwealth Space Commission</p>
                 <p>(Europe & British Commonwealth)</p>
-            </td>
-            <td align="center">
-                <p><strong>Calvin Maclure</strong></p>
-                <a href="https://www.youtube.com/@CalvinMaclure" target="_blank">
-                    <img src="static/images/CalvinMaclure.png" alt="Calvin-channel" width="250" height="250">
-                </a>
-                <p>China National Space Administration</p>
-                <p>(China)</p>
             </td>
         </tr>
     </table>
