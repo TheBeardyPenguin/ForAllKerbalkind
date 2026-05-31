@@ -196,7 +196,7 @@ Adds incredible planet textures. RSS Reborn is usable with or without Blackrack'
 We intend to migrate to [Sol](https://forum.kerbalspaceprogram.com/topic/229428-112x-sol-a-modern-recreation-of-our-home-system-at-real-quarter-and-stock-scale/) eventually, but can't at present as it would be save-breaking.
 
 > [!CAUTION]
-> If you decide use **Sol** instead, ***do so at your own risk***.
+> We do not currently support **Sol**. If you decide use **Sol** instead, ***do so at your own risk***.
 
 [Download the Automatic RSS Reborn Installer](https://github.com/drobie22/RSS-Reborn-Installer/releases/latest), place it in your KSP directory and run it.
 
@@ -212,10 +212,10 @@ Change the **Earth** textures to **16k** and leave everything else as default.
 > **Higher resolutions will eat tens of GB of memory and cause our custom Kerbal Konstructs bases to not display properly.** It is up to you if you want to see the individual blades of grass at Cape Canaveral with <10 FPS, but we do not recommend going above 16k for performance and stability reasons.
 
 
-### 18) OPTIONAL - [Install Blackrack's Raymarched Volumetric Clouds](https://www.patreon.com/blackrack/posts)
-**Only tested with Blackrack's Volumetrics release 5**
+### 18) OPTIONAL - [Install Blackrack's Raymarched Volumetric Clouds](https://www.patreon.com/blackrack/posts) (for RSS Reborn)
+**These are instructions specifically for RSS Reborn (see step 17). They were only tested with Blackrack's Volumetric Clouds Release 5.**
 
-Download [RSS-Volumetrics] and [Blackrack's Raymarched Volumetric Clouds](https://www.patreon.com/posts/139881534).
+Download [RSS-Volumetrics](https://github.com/Vanroden141/RP-1-RSS-Volumetrics/releases) and [Blackrack's Raymarched Volumetric Clouds Release 5](https://www.patreon.com/posts/139881534).
 
 Delete the following folders from your **``GameData``** folder in your KSP directory if they exist:
 - ``EnvironmentalVisualEnhancements``
@@ -223,15 +223,15 @@ Delete the following folders from your **``GameData``** folder in your KSP direc
 - ``RSSVE-Textures``
 - ``Scatterer``
 
-Extract the Sol-Volumetrics zip and copy the **``Sol-Volumetrics``** folder inside into the **``GameData``** folder in your KSP directory.
+Extract the **RSS-Volumetrics-LegacyParallax** zip and copy the **``RSS-Volumetrics``** folder (within the zip's **``GameData``** folder) into the **``GameData``** folder in your KSP directory.
 
-Extract the Blackrack Volumetrics zip and copy the following folders inside the **``GameData``** into the **``GameData``** folder in your KSP directory:
+Extract the **Blackrack RaymarchedVolumetrics** zip and copy the following folders (within the zip's **``GameData``** folder) into the **``GameData``** folder in your KSP directory:
 - ``EnvironmentalVisualEnhancements``
 - ``Scatterer``
 - ``StockVolumetricClouds``
 
 > [!WARNING]
-> You do *not* need the ``StockScattererConfigs`` folder. Do not copy that.
+> You do *not* need the ``StockScattererConfigs`` folder from Blackrack's zip file. Do *not* copy that.
 
 ### 19) Install the For All Kerbalkind Modpack Files
 Copy the contents of the **``GameData``** folder in the For All Kerbalkind modpack folder into the **``GameData``** folder in your KSP directory, and overwrite any conflicts.
